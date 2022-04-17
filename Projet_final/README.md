@@ -1,4 +1,4 @@
-# SMA-FishNsharkS
+# FishNsharks
 
 Authors : Clément Bouvier-Neveu,  Lisa Giordani, Olivier Laurent, Axel Rochel
 
