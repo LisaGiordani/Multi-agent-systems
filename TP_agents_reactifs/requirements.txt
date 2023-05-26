@@ -1,4 +1,0 @@
-mesa
-numpy
-tornado
-pandas
