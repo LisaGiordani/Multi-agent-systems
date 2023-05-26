@@ -1,4 +1,4 @@
-# Projet FishNsharks
+# Système multi-agents : FishNsharks
 
 Auteurs : Clément Bouvier-Neveu,  Lisa Giordani, Olivier Laurent, Axel Rochel
 
